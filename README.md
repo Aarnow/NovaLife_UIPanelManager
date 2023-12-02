@@ -8,7 +8,7 @@ Il s'agit d'une dépendance pour les plugins employant UIPanelManager.
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
-- [Droits de Propriété Intellectuelle](#contribution)
+- [Droits de Propriété Intellectuelle](#propriété-intellectuelle)
 
 ## Installation
 
